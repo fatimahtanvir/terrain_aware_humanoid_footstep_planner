@@ -1,0 +1,17 @@
+# ROS 2
+build/
+install/
+log/
+
+# Compiled files
+*.o
+*.so
+*.a
+*.out
+
+# Editor
+.vscode/
+.idea/
+
+# OS
+.DS_Store
