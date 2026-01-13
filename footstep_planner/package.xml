@@ -1,0 +1,9 @@
+<package format="3">
+  <name>footstep_planner</name>
+  <version>0.0.1</version>
+  <description>Humanoid footstep planner</description>
+  <maintainer email="you@email.com">Your Name</maintainer>
+  <license>MIT</license>
+  <buildtool_depend>ament_cmake</buildtool_depend>
+  <depend>rclcpp</depend>
+</package>
