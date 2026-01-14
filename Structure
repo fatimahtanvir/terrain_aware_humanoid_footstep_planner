@@ -1,0 +1,15 @@
+footstep_planner/
+├── CMakeLists.txt
+├── package.xml
+├── README.md
+├── msg/
+│   └── Footstep.msg
+├── include/
+│   └── footstep_planner/
+│       ├── planner.hpp
+│       ├── terrain_utils.hpp
+│       └── types.hpp
+├── src/
+│   ├── footstep_planner_node.cpp
+│   ├── planner.cpp
+│   └── terrain_utils.cpp
