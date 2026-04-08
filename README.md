@@ -1,4 +1,4 @@
-# Terrain-Aware Humanoid Footstep Planner (ROS 2) Built @ Golden Gate Innovations · ROS 2 Humble
+# Terrain-Aware Humanoid Footstep Planner (ROS 2) built @ Golden Gate Innovations · ROS 2 Humble
 
 This project implements a **sampling-based humanoid footstep planner** inspired by **Atlas-class robots**.
 It is written in **C++** and structured as a **ROS 2 node**.
